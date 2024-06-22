@@ -10,3 +10,10 @@ practices for maintainability and readability.
 ## Deliverables:
 Push your solution to a public GitHub repository and send the link to talent acquisition no longer
 than 1 week after receiving this coding challenge.
+
+## Get Call
+<img width="641" alt="image" src="https://github.com/hkholic13/Philips/assets/45591526/aa061666-92da-4d9d-bb30-97f85081de08">
+
+## Post Call
+<img width="637" alt="image" src="https://github.com/hkholic13/Philips/assets/45591526/7c1d6eff-31ba-47c9-a227-9e44e01df5cc">
+
